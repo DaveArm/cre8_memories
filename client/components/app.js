@@ -1,7 +1,9 @@
 import React from 'react';
 
+import Header from './header';
+
 export default () => {
   return (
-    <div>Cre8 Memories</div>
+    <div><Header /></div>
   );
 };
